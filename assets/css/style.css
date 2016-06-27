@@ -1,0 +1,20 @@
+<style>
+header {
+    background-color:#4aaaa5;
+    width: 210px;
+    height: 65px;
+    color:white;
+    font-family: Georgia;
+    font-size: 13px;
+    text-align:center;
+    padding:5px; 
+}
+
+ul#menu li {
+    display:inline;
+    float: right;
+    font-family: Arial;
+    color: black;
+    font-size: 11px;
+}
+
