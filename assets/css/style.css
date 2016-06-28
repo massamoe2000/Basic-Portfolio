@@ -10,11 +10,40 @@ header {
     padding:5px; 
 }
 
+}
+
 ul#menu li {
     display:inline;
     float: right;
+    background-color: white;
     font-family: Arial;
     color: black;
     font-size: 11px;
+    padding: 5px;
 }
 
+#main {
+    width: 960px;
+    background-color:grey;
+}
+
+#section {
+    width: 650px;
+    float: left;
+    padding:15px;
+
+}
+
+#aside {
+    background-color: white;
+    color:#4aaaa5;
+    padding:20px;
+}
+#footer {
+    background-color: #666666;
+    color: grey;
+    text-align: center;
+    padding: 10px;
+}
+
+</style>
